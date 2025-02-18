@@ -1,1 +1,4 @@
 This is a Indic Language Processor that can process words for any indic language
+Instructions:
+1. Please install all neccesary packages before executing project
+2. Please use your own groq api key
